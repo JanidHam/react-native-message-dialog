@@ -1,0 +1,41 @@
+{
+  "name": "react-native-message-dialog",
+  "version": "1.0.0",
+  "description": "A simple, dialog message component with callback action like Airbnb. Ideal for showing errors, info and warnings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanidHam/react-native-message-dialog.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "message",
+    "message-component",
+    "react-native-message-dialog",
+    "dialog",
+    "show message",
+    "error message",
+    "info message",
+    "warning message"
+  ],
+  "author": "Janid Ham <janid.ham20@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JanidHam/react-native-message-dialog/issues"
+  },
+  "homepage": "https://github.com/JanidHam/react-native-message-dialog#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.56.0"
+  }
+}
