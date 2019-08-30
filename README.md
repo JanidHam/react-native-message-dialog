@@ -46,7 +46,7 @@ return (
 
 ## Documentation
 
-### EllipsisLoading Component
+### Message Component
 | Name            | Description                                           | Default           | Type     |
 |-----------------|-------------------------------------------------------|-------------------|----------|
 | visible         | Determinates if message container is visible          | false             | Boolean  |

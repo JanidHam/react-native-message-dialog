@@ -1,6 +1,6 @@
 {
   "name": "react-native-message-dialog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple, dialog message component with callback action like Airbnb. Ideal for showing errors, info and warnings.",
   "main": "index.js",
   "scripts": {

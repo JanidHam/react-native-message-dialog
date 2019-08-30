@@ -2,13 +2,8 @@
 *.log
 npm-debug.log
 
-# Runtime data
-tmp
-build
-dist
-
 # Dependency directory
 node_modules
 
-.vscode
-.DS_STORE
+# Runtime data
+tmp
